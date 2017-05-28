@@ -3,7 +3,7 @@ layout: default
 title:  Home
 ---
 
-##Source Code: [Here](https://github.com/ssaltzen/LARS)		 Class Website: [Here](http://sameersingh.org/courses/aiproj/sp17/)	
+#Source Code: [Here](https://github.com/ssaltzen/LARS)		 Class Website: [Here](http://sameersingh.org/courses/aiproj/sp17/)	
 LARS is an AI that uses Q-Learning in conjunction with malmo to make a player AI that solves a 2D maze with items scattered throughout. 
 
 We decieded to go with Q-Learning as described [here](https://en.wikipedia.org/wiki/Q-learning) and as implemented in the below code:
