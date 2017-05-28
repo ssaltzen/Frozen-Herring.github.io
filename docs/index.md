@@ -4,9 +4,9 @@ title:  Home
 ---
 
 # Welcome to Project LARS
-#### Source Code: [Github](https://github.com/ssaltzen/LARS)			 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/)
+##### Source Code: [Github](https://github.com/ssaltzen/LARS)			 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/)
 
-## What is LARS?
+### What is LARS?
 
 LARS is an on going project for the CS175 project corse at University California, Irvine. Our goal is to explore and implement 
 
