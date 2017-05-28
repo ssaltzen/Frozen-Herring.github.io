@@ -4,13 +4,13 @@ title:  Home
 ---
 
 # Welcome to Project LARS
-##### Source Code: [Github](https://github.com/ssaltzen/LARS)				 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/) 			Project Malmo: [Malmo](https://github.com/Microsoft/malmo)
+##### Source Code: [Github](https://github.com/ssaltzen/LARS)							 	 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/)						 		 Project Malmo: [Malmo](https://github.com/Microsoft/malmo)
 
 ### What is LARS?
 
-LARS is an on going project for the CS175 project corse at University California, Irvine. Our goal is to explore and implement 
+LARS is an on going project for the CS175 project corse at University California, Irvine. Our goal is to explore and implement an intereting AI to interact with the world of Minecraft. 
 
-![](Titlepg.jpg){:height="600px" :width="950px"}
+[![LARSVID](https://youtu.be/fzii_TnV2Xg)]("LARS project video HD")
 
 
 	
