@@ -10,7 +10,7 @@ title:  Home
 
 LARS is an on going project for the CS175 project corse at University California, Irvine. Our goal is to explore and implement 
 
-![](Titlepg.jpg){:height="360px" :width="640px"}
+![](Titlepg.jpg){:height="700px" :width="900px"}
 
 
 	
