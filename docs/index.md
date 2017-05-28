@@ -4,7 +4,7 @@ title:  Home
 ---
 
 # Welcome to Project LARS
-##### Source Code: [Github](https://github.com/ssaltzen/LARS)			 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/)
+##### Source Code: [Github](https://github.com/ssaltzen/LARS)				 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/) 			Project Malmo: [Malmo](https://github.com/Microsoft/malmo)
 
 ### What is LARS?
 
