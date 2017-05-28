@@ -3,14 +3,14 @@ layout: default
 title:  Home
 ---
 
-# Welcome to project LARS
-### Source Code: [Github](https://github.com/ssaltzen/LARS)			 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/)
+# Welcome to Project LARS
+#### Source Code: [Github](https://github.com/ssaltzen/LARS)			 Class Website: [CS175](http://sameersingh.org/courses/aiproj/sp17/)
 
 ## What is LARS?
 
 LARS is an on going project for the CS175 project corse at University California, Irvine. Our goal is to explore and implement 
 
-![](Titlepg.jpg){:height="700px" :width="900px"}
+![](Titlepg.jpg){:height="600px" :width="950px"}
 
 
 	
