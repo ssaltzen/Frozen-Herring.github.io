@@ -10,7 +10,7 @@ title:  Home
 
 LARS is an on going project for the CS175 project corse at University California, Irvine. Our goal is to explore and implement an intereting AI to interact with the world of Minecraft. 
 
-[![LARSVID](VideoLink.png)](https://youtu.be/fzii_TnV2Xg "LARS project video HD")
+[![LARSVID](VideoLink.png)](https://youtu.be/fzii_TnV2Xg)
 
 
 	
